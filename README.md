@@ -1,5 +1,10 @@
 # Algorithms-assignment01
 
-when program is run you will have two options, 1) brute auto complete and 2) Quick Auto complete. Just pick which one you desire to choose.
-in the brute selection you will have another choice inside it which allow you  get the weight of a prefix, the best match of a prefix and 
-allows you select the number or results to print out of the best match of a certain prefix.
+This program contains two options:
+1) brute auto complete 
+2) Quick Auto complete. 
+
+If 1)Brute selection is selected it will give more options.
+1)get the weight of a prefix, 
+2)the best match of a prefix
+3)print out of the best match of a certain prefix.
